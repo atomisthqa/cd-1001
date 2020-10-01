@@ -18,4 +18,4 @@ And then run the grunt task to compile the TypeScript:
 
 To start the server run:
 
-`$ npm start`
+`$ npm start`  
